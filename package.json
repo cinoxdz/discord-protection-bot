@@ -1,16 +1,19 @@
 {
-    "name": "wick-protection-bot",
+    "name": "YNK-protection-bot",
     "version": "1.0.0",
-    "description": "A Discord protection bot using Discord.js v14 and EJS , Made by Wick Studio.",
+    "description": "A Discord protection bot using Discord.js v14 and EJS , Made by YNK.",
     "main": "index.js",
+    "engines": {
+    "node": "16.x"
+    },
     "scripts": {
         "start": "node index.js",
         "dev": "nodemon index.js"
     },
-    "author": "Wick Studio",
+    "author": "YNK",
     "repository": {
         "type": "git",
-        "url": "https://github.com/wickstudio/discord-protection-bot.git"
+        "url": "https://github.com/yassineronaldo01/discord-protection-bot.git"
     },
     "license": "MIT",
     "dependencies": {
@@ -25,7 +28,7 @@
         "nodemon": "^2.0.0"
     },
     "bugs": {
-        "url": "https://github.com/wickstudio/discord-protection-bot/issues"
+        "url": "https://github.com/yassineronaldo01/discord-protection-bot/issues"
     },
-    "homepage": "https://github.com/wickstudio/discord-protection-bot#readme"
+    "homepage": "https://github.com/yassineronaldo01/discord-protection-bot#readme"
 }
